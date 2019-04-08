@@ -1,0 +1,15 @@
+* body{
+    font-family: 'Tangerine', serif;
+    background-color: #cf6565;
+    margin: auto;
+    padding: 0;
+    font-size: 20px;
+}
+
+ #nav_bar{
+
+    margin-bottom: 0px;
+    padding: 0;
+    background-color: aquablue;
+
+}
